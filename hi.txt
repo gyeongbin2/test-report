@@ -1,1 +1,2 @@
+jo gyeongbin,201903336, electornic physical
 print("hi")
