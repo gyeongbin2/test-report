@@ -1,2 +1,2 @@
 jo gyeongbin,201903336, electornic physical
-print("hi")
+print("hi my name is GyeongBin ")
