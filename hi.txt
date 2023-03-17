@@ -1,2 +1,3 @@
 jo gyeongbin,201903336, electornic physical
 print("hi my name is GyeongBin ")
+print("it"s sub id , pull - request practice")
